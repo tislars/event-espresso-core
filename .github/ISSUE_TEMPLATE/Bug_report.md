@@ -11,7 +11,7 @@ BEFORE POSTING YOUR ISSUE:
 - Try to add as much detail as possible. Be specific!
 - Make sure you read the README.md for the project regarding posting issues.
 - Search this repository for issues and pull requests and whether it has been fixed or reported already.
-- Ensure you are using the latest code before reporting bugs (unless you are reporting an issue disovered in a branch).
+- Ensure you are using the latest code before reporting bugs (unless you are reporting an issue discovered in a branch).
 - Disable all plugins and switch to a default theme to ensure its not a plugin/theme conflict issue.
 - To report a security issue, please visit this page: https://eventespresso.com/report-a-security-vulnerability/
 -->
@@ -37,7 +37,7 @@ Steps to reproduce the behavior:
 **Environment:**
  - Version of Event Espresso:  <!-- tagged release version if known or branch name.  e.g. 4.9.59.p -->
  - Version of WordPress: <!-- e.g. 4.9.6] -->
- - Browser <!-- [e.g. chrome, safari (include youre browser version if possible)] -->
+ - Browser <!-- [e.g. chrome, safari (include you're browser version if possible)] -->
  - PHP Version <!-- [e.g. 5.6.2] -->
 
 **Additional context**
